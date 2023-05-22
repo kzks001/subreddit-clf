@@ -1,4 +1,4 @@
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 3: Classifying Reddit Posts from Trump and Biden Subreddits using NLP Classification
+# Classifying Reddit Posts from Trump and Biden Subreddits using NLP Classification
 
 ## Overview
 The United States is preparing for an upcoming presidential election, which will determine who will be the next leader of the country. The current Trump administration, led by President Trump, is in the process of hiring new employees. The selection process is based on interviews and projects, which are used to evaluate the candidates' skills and abilities.
